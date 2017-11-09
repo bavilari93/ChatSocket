@@ -1,0 +1,58 @@
+body{ background-color:#EDEFF2; }
+
+#container{
+width: 700 px; 
+margin:0 auto;
+}
+
+#namesWrapper{
+float:left;
+border: 1px #ccc solid;
+background:#576872 ;
+padding 10px; 
+margin-left: 20px;
+}
+#mainWrapper{
+display:none;
+}
+
+#chatWrapper{
+float:left;
+border:1px #ccc solid;
+border-radius: 10px;
+background:#576872;
+padding:10px;
+}
+
+#chatWindow{
+height: 300px;
+}
+
+#messageForm{
+
+}
+#message{}
+#userWrapper{
+float: left;
+border-radius: 10px;
+background:#576872;
+padding:10px;
+margin-left:20px;
+width:150px;
+max-height: 200px;
+}
+
+#users{
+
+}
+input:focus{
+	boder:none;
+	background-color: #052435;
+	color: white;
+
+
+}
+
+input{
+	height: 20px;
+	width:120px; }

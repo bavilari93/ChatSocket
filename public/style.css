@@ -1,0 +1,37 @@
+body{ background-color: white;}
+
+#container{
+width: 700 px; 
+margin:0 auto;
+}
+
+#namesWrapper{
+
+}
+#mainWrapper{
+display:none;
+}
+
+#chatWrapper{
+float:left;
+border:1px #ccc solid;
+border-radius: 10px;
+background:#052435;
+padding:10px;
+}
+
+#chatWindow{
+height: 300px;
+}
+
+#messageForm{
+
+}
+#message{}
+#userWrapper{
+
+}
+
+#users{
+
+}
